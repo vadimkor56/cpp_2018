@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vadimkorepanov/Yandex.Disk.localized/Дисциплины/Программирование/С++/Лабораторные работы/Лаб1/main.cpp
+fstream
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/2_4_.dir/main.cpp.o  -o 2_4_ /usr/local/lib/libxml++-2.6.dylib -lxml++-2.6 -lxml2 -lglibmm-2.4 -lgobject-2.0 -lglib-2.0 -lintl -lsigc-2.0 

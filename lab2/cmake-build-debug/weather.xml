@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weather Date="19.05.2018">
+	<current>
+		<city id="524901" name="Moscow"></city>
+		<lat>55.75</lat>		
+		<lon>37.62</lon>
+		<country>RU</country>
+		<temperature>12.82</temperature>
+		<humidity>93</humidity>
+		<pressure>1020</pressure>
+	</current>
+	<current>
+		<city id="1496153" name="Omsk"></city>
+		<lat>54.99</lat>		
+		<lon>73.37</lon>
+		<country>RU</country>
+		<temperature>5.15</temperature>
+		<humidity>56</humidity>
+		<pressure>1005</pressure>
+	</current>
+	<current>
+		<city id="472757" name="Volgograd"></city>
+		<lat>48.71</lat>		
+		<lon>44.52</lon>
+		<country>RU</country>
+		<temperature>16.15</temperature>
+		<humidity>41</humidity>
+		<pressure>1019</pressure>
+	</current>
+	<current>
+		<city id="504003" name="Pushkin"></city>
+		<lat>59.72</lat>		
+		<lon>30.42</lon>
+		<country>RU</country>
+		<temperature>18.15</temperature>
+		<humidity>42</humidity>
+		<pressure>1015</pressure>
+	</current>
+	<current>
+		<city id="581049" name="Arkhangelsk"></city>
+		<lat>64.54</lat>		
+		<lon>40.54</lon>
+		<country>RU</country>
+		<temperature>13.15</temperature>
+		<humidity>37</humidity>
+		<pressure>1020</pressure>
+	</current>
+	<current>
+		<city id="498677" name="Saratov"></city>
+		<lat>46.03</lat>		
+		<lon>51.53</lon>
+		<country>RU</country>
+		<temperature>19.15</temperature>
+		<humidity>68</humidity>
+		<pressure>1020</pressure>
+	</current>
+	<current>
+		<city id="554232" name="Kaliningrad"></city>
+		<lat>54.71</lat>		
+		<lon>20.51</lon>
+		<country>RU</country>
+		<temperature>18.15</temperature>
+		<humidity>68</humidity>
+		<pressure>1013</pressure>
+	</current>
+</weather>
